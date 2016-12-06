@@ -3,4 +3,8 @@ gdfgdgfuhujADSDSgjjJGHV
 =======
 gdfgdgfcxzcvcxvcxvcxvcxvxcvxcv
 xcvdcxvcxvcxvcxv
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+zzcxcxc
 >>>>>>> origin/master
