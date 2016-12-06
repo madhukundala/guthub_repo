@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 gdfgdgfuhujADSDSgjjJGHV
+=======
+gdfgdgfcxzcvcxvcxvcxvcxvxcvxcv
+xcvdcxvcxvcxvcxv
+>>>>>>> origin/master
